@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10116" systemVersion="15E65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="XianHuoViewController">
+            <connections>
+                <outlet property="content_sc" destination="WNl-hI-NJ0" id="vHz-Bl-q02"/>
+                <outlet property="titleBar_sc" destination="hHX-QO-Ceq" id="i7p-IC-oJ1"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="hHX-QO-Ceq">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="51"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="50" id="E4H-W3-8gz"/>
+                    </constraints>
+                </scrollView>
+                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="WNl-hI-NJ0">
+                    <rect key="frame" x="0.0" y="59" width="320" height="421"/>
+                </scrollView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="WNl-hI-NJ0" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="47t-qO-bia"/>
+                <constraint firstAttribute="bottom" secondItem="WNl-hI-NJ0" secondAttribute="bottom" id="4Q0-yU-mMN"/>
+                <constraint firstAttribute="trailing" secondItem="WNl-hI-NJ0" secondAttribute="trailing" id="7e0-pr-r89"/>
+                <constraint firstAttribute="trailing" secondItem="hHX-QO-Ceq" secondAttribute="trailing" id="8I8-2i-Bak"/>
+                <constraint firstItem="WNl-hI-NJ0" firstAttribute="top" secondItem="hHX-QO-Ceq" secondAttribute="bottom" id="YiO-GJ-ujh"/>
+                <constraint firstItem="hHX-QO-Ceq" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="duE-uy-lfC"/>
+                <constraint firstItem="hHX-QO-Ceq" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="wbx-Ia-iyc"/>
+            </constraints>
+            <simulatedScreenMetrics key="simulatedDestinationMetrics"/>
+        </view>
+    </objects>
+</document>

@@ -1,0 +1,141 @@
+{
+    "shipName": "兆基88",
+    "orderList": [
+                  {
+                  "memberTel": 17714347363,
+                  "sortLocation": {
+                  "self": "共5箱：3个常温箱、1个冷鲜箱、1个冷冻箱、4个快递。",
+                  "third": "共5个订单，到站4个订单、1个未达。",
+                  "location": "A1,A2"
+                  },
+                  "goodsList": [
+                                {
+                                "name": "常温商品",
+                                "list": [
+                                         {
+                                         "goodsName": "美的智能电饭锅",
+                                         "attr": "乳白色 锅盖一体",
+                                         "unit": "箱",
+                                         "orderNums": 2,
+                                         "boxNums": 2
+                                         }
+                                         ]
+                                },
+                                {
+                                "name": "冷鲜商品",
+                                "list": [
+                                         {
+                                         "goodsName": "美的智能电饭锅",
+                                         "attr": "乳白色 锅盖一体",
+                                         "unit": "箱",
+                                         "orderNums": 2,
+                                         "boxNums": 2
+                                         }
+                                         ]
+                                },
+                                {
+                                "name": "冷冻商品",
+                                "list": [
+                                         {
+                                         "goodsName": "美的智能电饭锅",
+                                         "attr": "乳白色 锅盖一体",
+                                         "unit": "箱",
+                                         "orderNums": 2,
+                                         "boxNums": 2
+                                         }
+                                         ]
+                                },
+                                {
+                                "name": "快递",
+                                "list": [
+                                         {
+                                         "expressName": "中通快递",
+                                         "expressCode": 234123213123,
+                                         "storage": 1,
+                                         "state": 1,
+                                         "property": 1
+                                         }
+                                         ]
+                                },
+                                {
+                                "name": "商户订单",
+                                "list": [
+                                         {
+                                         "expressNo": 232323232323,
+                                         "location": "云柜1232",
+                                         "state": 1
+                                         }
+                                         ]
+                                }
+                                ]
+                  },
+                  {
+                  "memberTel": 17714347363,
+                  "sortLocation": {
+                  "self": "共5箱：3个常温箱、1个冷鲜箱、1个冷冻箱、4个快递。",
+                  "third": "共5个订单，到站4个订单、1个未达。",
+                  "location": "A1,A2"
+                  },
+                  "goodsList": [
+                                {
+                                "name": "常温商品",
+                                "list": [
+                                         {
+                                         "goodsName": "美的智能电饭锅",
+                                         "attr": "乳白色 锅盖一体",
+                                         "unit": "箱",
+                                         "orderNums": 2,
+                                         "boxNums": 2
+                                         }
+                                         ]
+                                },
+                                {
+                                "name": "冷鲜商品",
+                                "list": [
+                                         {
+                                         "goodsName": "美的智能电饭锅",
+                                         "attr": "乳白色 锅盖一体",
+                                         "unit": "箱",
+                                         "orderNums": 2,
+                                         "boxNums": 2
+                                         }
+                                         ]
+                                },
+                                {
+                                "name": "冷冻商品",
+                                "list": [
+                                         {
+                                         "goodsName": "美的智能电饭锅",
+                                         "attr": "乳白色 锅盖一体",
+                                         "unit": "箱",
+                                         "orderNums": 2,
+                                         "boxNums": 2
+                                         }
+                                         ]
+                                },
+                                {
+                                "name": "快递",
+                                "list": [
+                                         {
+                                         "expressName": "中通快递",
+                                         "expressCode": 234123213123,
+                                         "storage": 1,
+                                         "state": 1,
+                                         "property": 1
+                                         }
+                                         ]
+                                },
+                                {
+                                "name": "商户订单",
+                                "list": [
+                                         {
+                                         "expressNo": 232323232323,
+                                         "location": "云柜1232",
+                                         "state": 1
+                                         }
+                                         ]
+                                }
+                                ]
+                  }
+                  ]
+}

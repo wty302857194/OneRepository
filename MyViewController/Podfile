@@ -1,0 +1,10 @@
+target 'MyViewController' do
+    platform :ios, '7.0'
+    pod 'AFNetworking'
+    pod 'Masonry'
+#    pod 'Toast'
+    pod 'Bugtags'
+    pod 'Bugly'
+    pod 'MJExtension'
+
+end

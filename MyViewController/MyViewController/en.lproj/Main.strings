@@ -1,0 +1,54 @@
+
+/* Class = "UILabel"; text = "长江汇自营"; ObjectID = "6l7-Iw-Hjh"; */
+"6l7-Iw-Hjh.text" = "长江汇自营";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "BJD-fO-8Km"; */
+"BJD-fO-8Km.title" = "Root View Controller";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "GFP-BQ-S4x"; */
+"GFP-BQ-S4x.text" = "Title";
+
+/* Class = "UILabel"; text = "吴棒棒"; ObjectID = "HCi-Vg-wCW"; */
+"HCi-Vg-wCW.text" = "吴棒棒";
+
+/* Class = "UILabel"; text = "yxp"; ObjectID = "Hz2-eX-QPr"; */
+"Hz2-eX-QPr.text" = "yxp";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "J38-VU-yS7"; */
+"J38-VU-yS7.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "JRn-0d-VzU"; */
+"JRn-0d-VzU.text" = "Detail";
+
+/* Class = "UILabel"; text = "yxp"; ObjectID = "VpK-hW-VaV"; */
+"VpK-hW-VaV.text" = "yxp";
+
+/* Class = "UILabel"; text = "LY"; ObjectID = "W4R-rr-5qp"; */
+"W4R-rr-5qp.text" = "LY";
+
+/* Class = "UITableViewSection"; headerTitle = "Section-2"; ObjectID = "XLD-1g-YL8"; */
+"XLD-1g-YL8.headerTitle" = "Section-2";
+
+/* Class = "UILabel"; text = "yxp"; ObjectID = "aCH-pb-z0r"; */
+"aCH-pb-z0r.text" = "yxp";
+
+/* Class = "UILabel"; text = "WBB"; ObjectID = "cnr-o7-SMa"; */
+"cnr-o7-SMa.text" = "WBB";
+
+/* Class = "UILabel"; text = "长江汇自营"; ObjectID = "dP7-1p-8uw"; */
+"dP7-1p-8uw.text" = "长江汇自营";
+
+/* Class = "UITableViewSection"; headerTitle = "Section-1"; ObjectID = "fQ3-KO-ZBc"; */
+"fQ3-KO-ZBc.headerTitle" = "Section-1";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gjD-7d-VwG"; */
+"gjD-7d-VwG.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "wbb"; ObjectID = "h9S-Nb-mBe"; */
+"h9S-Nb-mBe.normalTitle" = "wbb";
+
+/* Class = "UIButton"; normalTitle = "wbb"; ObjectID = "t1v-ty-JLE"; */
+"t1v-ty-JLE.normalTitle" = "wbb";
+
+/* Class = "UIButton"; normalTitle = "wbb"; ObjectID = "u3L-mq-YV4"; */
+"u3L-mq-YV4.normalTitle" = "wbb";
